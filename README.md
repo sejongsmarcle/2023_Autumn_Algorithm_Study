@@ -3,13 +3,12 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">   
-    <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">   
-    <img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white"> 
-    <img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white"> 
-    <img src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Visualstudio-5C2D91?logo=Visualstudio&logoColor=white"> 
-
+	<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
+	<img src="https://img.shields.io/badge/Visualstudio-5C2D91?logo=Visualstudio&logoColor=white"> 
+    	<img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">   
+    	<img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white"> 
+    	<img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white"> 
+    	<img src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=white"> 
 </div>
 
 # 스터디 목표

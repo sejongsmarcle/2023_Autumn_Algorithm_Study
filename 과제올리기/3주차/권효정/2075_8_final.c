@@ -29,7 +29,8 @@ int upHeap(int i) {
 }
 
 void printHeap() {
-	for (int i = 1; i <= n * n; i++) {
+	//출력 확인용
+	for (int i = 1; i <= n; i++) {
 		printf(" %d", H[i]);
 	}printf("\n");
 }

@@ -64,7 +64,7 @@ int getMaxPrime(int input) {
 }
 int getNextBucket(int n, int k) {
 	int q = getMaxPrime(SIZE);
-	int loc = SIZE + q - (k % q);
+	int loc = SIZE + q - abs(k % q);
 
 	if (loc > SIZE - 1)
 		return loc - SIZE;

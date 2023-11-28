@@ -125,7 +125,6 @@ int dequeue(void) {
 
 	int vIdx = Q.front->vIdx;
 	Node* temp = Q.front;
-	//Q.front = Q.front->next;
 	if (Q.front == Q.rear) {
 		Q.front = NULL;
 		Q.rear = NULL;
@@ -140,7 +139,6 @@ int dequeue(void) {
 
 void topologicalSort() {
 	initQueue(&Q);
-	//Q.front = Q.rear = NULL;
 
 	for (int i = 0; i < n; i++) {
 		G.vertices[i].inDegree = 0;
